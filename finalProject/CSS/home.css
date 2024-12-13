@@ -63,9 +63,11 @@ button:hover{
 }
 
 .singleplayer{
-    background-color: rgb(255, 78, 78);
+    background: radial-gradient(rgb(48, 224, 255), rgb(161, 65, 240));
+    color: white;
 }
 
 .multiplayer{
-    background-color: rgb(252, 149, 80);
+    background: radial-gradient(rgb(29, 0, 192), rgb(1, 189, 79));
+    color: white;
 }
